@@ -8,10 +8,10 @@ def square_array(array)
   squaredArray
 end
 
-def square_array(array)
+#def square_array(array)
   # your code here
-  array.map do |num|
-    squared = num*num
-    squared
-  end
-end
+  #array.map do |num|
+    #squared = num*num
+    #squared
+  #end
+#end
