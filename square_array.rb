@@ -10,7 +10,7 @@ end
 
 def square_array(array)
   # your code here
-  array.collect do |num|
+  array.map do |num|
     squared = num*num
     squared
   end
